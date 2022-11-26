@@ -1,4 +1,4 @@
 <?php
-include_once("controller/UserController.php");
-$controller = new UserController();
-$controller->invoke();
+//include_once("controller/UserController.php");
+//$controller = new UserController();
+//$controller->invoke();
